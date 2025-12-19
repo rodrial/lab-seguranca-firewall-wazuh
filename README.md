@@ -8,7 +8,7 @@ Este projeto documenta a criação de um ambiente de rede seguro e controlado pa
 ## 🏗️ Arquitetura da Infraestrutura
 O ambiente é virtualizado em um notebook pessoal utilizando **VirtualBox**, simulando uma estrutura de rede empresarial segmentada.
 
-[Inserir aqui o link da imagem: ![Diagrama do Lab](./docs/diagrama.png)]
+(https://github.com/rodrial/lab-seguranca-firewall-wazuh/blob/main/docs/Lab_firewall.drawio.png)
 
 ### Componentes e Especificações
 | Ativo | Função | Sistema Operacional | RAM |
